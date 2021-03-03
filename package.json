@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "feather-icons": "^4.21.0",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
